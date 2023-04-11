@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bwgjms.github.io/justmysocks-promo-code/</loc>
+    <loc>https://bwgjms.github.io/justmysocks-vs-bandwagonhost/</loc>
     
     <lastmod>2023-04-11</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://bwgjms.github.io/justmysocks-vs-bandwagonhost/</loc>
+    <loc>https://bwgjms.github.io/justmysocks-promo-code/</loc>
     
-    <lastmod>2023-04-10</lastmod>
+    <lastmod>2023-04-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -69,6 +69,20 @@
   
   <url>
     <loc>https://bwgjms.github.io/tags/%E6%90%AC%E7%93%A6%E5%B7%A5%E6%9C%BA%E5%9C%BA%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2023-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bwgjms.github.io/tags/%E6%90%AC%E7%93%A6%E5%B7%A5/</loc>
+    <lastmod>2023-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bwgjms.github.io/tags/BandwagonHost/</loc>
     <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
